@@ -1,0 +1,11 @@
+2 Probe IV Memristor Sweep [D4 1-2(11) ; 7/23/2022 8:08:03 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.July.22_6 SC1.1+5 Al2O3 Alb Pdt_num1_Mod Mask\D4 1-2\D4 1-2 Scan11.txt
+2 Probe IV Memristor Sweep [D4 1-2(10) ; 7/23/2022 8:07:39 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.July.22_6 SC1.1+5 Al2O3 Alb Pdt_num1_Mod Mask\D4 1-2\D4 1-2 Scan10.txt
+2 Probe IV Memristor Sweep [D4 1-2(9) ; 7/23/2022 8:07:15 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.July.22_6 SC1.1+5 Al2O3 Alb Pdt_num1_Mod Mask\D4 1-2\D4 1-2 Scan9.txt
+2 Probe IV Memristor Sweep [D4 1-2(8) ; 7/23/2022 8:06:37 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.July.22_6 SC1.1+5 Al2O3 Alb Pdt_num1_Mod Mask\D4 1-2\D4 1-2 Scan8.txt
+2 Probe IV Memristor Sweep [D4 1-2(7) ; 7/23/2022 8:06:07 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.July.22_6 SC1.1+5 Al2O3 Alb Pdt_num1_Mod Mask\D4 1-2\D4 1-2 Scan7.txt
+2 Probe IV Memristor Sweep [D4 1-2(6) ; 7/23/2022 8:05:44 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.July.22_6 SC1.1+5 Al2O3 Alb Pdt_num1_Mod Mask\D4 1-2\D4 1-2 Scan6.txt
+2 Probe IV Memristor Sweep [D4 1-2(5) ; 7/23/2022 8:05:20 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.July.22_6 SC1.1+5 Al2O3 Alb Pdt_num1_Mod Mask\D4 1-2\D4 1-2 Scan5.txt
+2 Probe IV Memristor Sweep [D4 1-2(4) ; 7/23/2022 8:04:53 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.July.22_6 SC1.1+5 Al2O3 Alb Pdt_num1_Mod Mask\D4 1-2\D4 1-2 Scan4.txt
+2 Probe IV Memristor Sweep [D4 1-2(3) ; 7/23/2022 8:04:28 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.July.22_6 SC1.1+5 Al2O3 Alb Pdt_num1_Mod Mask\D4 1-2\D4 1-2 Scan3.txt
+2 Probe IV Memristor Sweep [D4 1-2(2) ; 7/23/2022 8:04:01 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.July.22_6 SC1.1+5 Al2O3 Alb Pdt_num1_Mod Mask\D4 1-2\D4 1-2 Scan2.txt
+2 Probe IV Memristor Sweep [D4 1-2(1) ; 7/23/2022 8:02:46 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.July.22_6 SC1.1+5 Al2O3 Alb Pdt_num1_Mod Mask\D4 1-2\D4 1-2 Scan1.txt

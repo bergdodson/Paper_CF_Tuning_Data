@@ -1,0 +1,1 @@
+2 Probe IV Memristor Sweep [D2 4-1 initial(1) ; 8/16/2022 3:51:18 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.Aug.8_7SC1.1+3Al2O3_Alb Pdt_num 2_Mod Mask\D2 4-1\D2 4-1 initial Scan1.txt

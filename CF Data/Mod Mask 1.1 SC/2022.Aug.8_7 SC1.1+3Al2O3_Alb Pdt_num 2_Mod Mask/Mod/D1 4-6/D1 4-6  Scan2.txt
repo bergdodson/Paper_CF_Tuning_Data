@@ -1,0 +1,162 @@
+Setup title	"2 Probe IV Memristor Sweep"
+Device ID	"D1 4-6 reset"
+Test Parameter	Context.MainFrame	B1500A
+Test Parameter	Channel.UnitType	SMU	SMU
+Test Parameter	Channel.Unit	SMU3:MP	SMU1:MP
+Test Parameter	Channel.IName	I1	I2
+Test Parameter	Channel.VName	V1	V2
+Test Parameter	Channel.Mode	V	COMMON
+Test Parameter	Channel.Func	VAR1	CONST
+Test Parameter	Channel.Index	
+Test Parameter	Channel.Time	
+Test Parameter	Measurement.Port.Unit	SMU3:MP	SMU1:MP
+Test Parameter	Measurement.Port.SeriesResistor	NONE	NONE
+Test Parameter	Measurement.Port.Filter	ON	ON
+Test Parameter	Measurement.Port.OutputVoltageComparison	0	0
+Test Parameter	Measurement.Primary.Locus	Double
+Test Parameter	Measurement.Primary.Scale	LINEAR
+Test Parameter	Measurement.Primary.Start	-2
+Test Parameter	Measurement.Primary.Stop	-2.5
+Test Parameter	Measurement.Primary.Step	-0.02
+Test Parameter	Measurement.Primary.Compliance	0.01
+Test Parameter	Measurement.Primary.PowerCompliance	0
+Test Parameter	Measurement.Aborting.Condition	"CONTINUE AT ANY"
+Test Parameter	Measurement.PostOutput.Value	START
+Test Parameter	Measurement.PostOutput.Retention	OFF
+Test Parameter	Measurement.Bias.Source	-2	0
+Test Parameter	Measurement.Bias.Compliance	0.01	0.1
+Test Parameter	Measurement.Monitor.Unit	SMU3:MP	SMU1:MP
+Test Parameter	Measurement.Monitor.Adc	"HR ADC"	"HR ADC"
+Test Parameter	Measurement.Monitor.Measurement	"Compliance Side"	"Compliance Side"
+Test Parameter	Measurement.Monitor.RangingMode	LIMITED	AUTO
+Test Parameter	Measurement.Monitor.RangeBoundary	1nA	
+Test Parameter	Measurement.Monitor.RangeRating	"BY FULL RANGE"	"BY FULL RANGE"
+Test Parameter	Measurement.Monitor.RangeRatingCoeff	50	50
+Test Parameter	Measurement.Timing.Hold	0
+Test Parameter	Measurement.Timing.Delay	1
+Test Parameter	Measurement.Adc.HighSpeed.Mode	AUTO
+Test Parameter	Measurement.Adc.HighSpeed.Coeff	1
+Test Parameter	Measurement.Adc.HighResolution.AutoZero	OFF
+Test Parameter	Measurement.Adc.HighResolution.Mode	AUTO
+Test Parameter	Measurement.Adc.HighResolution.Coeff	6
+Test Parameter	Measurement.WaitTime.Source.Coeff	1
+Test Parameter	Measurement.WaitTime.Source.Offset	0
+Test Parameter	Measurement.WaitTime.Monitor.Coeff	1
+Test Parameter	Measurement.WaitTime.Monitor.Offset	0
+Test Parameter	Function.User.Name	Vout	R	Iabs
+Test Parameter	Function.User.Unit	V	ohm	A
+Test Parameter	Function.User.Definition	V1-V2	Vout/I1	(I1^2)^(1/2)
+Test Parameter	Output.Graph.Enabled	true
+Test Parameter	Output.Graph.XAxis.Data	Vout
+Test Parameter	Output.Graph.XAxis.Scale	Linear
+Test Parameter	Output.Graph.XAxis.Left	-3
+Test Parameter	Output.Graph.XAxis.Right	3
+Test Parameter	Output.Graph.YAxis.Data	I1	R
+Test Parameter	Output.Graph.YAxis.Scale	Linear	Log
+Test Parameter	Output.Graph.YAxis.Bottom	-0.005	200
+Test Parameter	Output.Graph.YAxis.Top	0.005	100000
+Test Parameter	Output.Graph.YAxis.Group		
+Test Parameter	Output.List.Data	I1	I2	Vout	R	V1	V2
+Test Parameter	AutoAnalysis.Interpolation	false
+Test Parameter	AutoAnalysis.Line1.Enabled	false
+Test Parameter	AutoAnalysis.Line1.Type	1
+Test Parameter	AutoAnalysis.Line1.Fix	True
+Test Parameter	AutoAnalysis.Line1.YAxis	0
+Test Parameter	AutoAnalysis.Line1.Point1.Type	0
+Test Parameter	AutoAnalysis.Line1.Point1.XY.X	
+Test Parameter	AutoAnalysis.Line1.Point1.XY.Y	
+Test Parameter	AutoAnalysis.Line1.Point1.Data.Var	
+Test Parameter	AutoAnalysis.Line1.Point1.Data.Condition	
+Test Parameter	AutoAnalysis.Line1.Point1.Data.Start	false
+Test Parameter	AutoAnalysis.Line1.Point1.Data.StartVar	
+Test Parameter	AutoAnalysis.Line1.Point1.Data.StartCondition	
+Test Parameter	AutoAnalysis.Line1.Point2.Type	0
+Test Parameter	AutoAnalysis.Line1.Point2.XY.X	
+Test Parameter	AutoAnalysis.Line1.Point2.XY.Y	
+Test Parameter	AutoAnalysis.Line1.Point2.Data.Var	
+Test Parameter	AutoAnalysis.Line1.Point2.Data.Condition	
+Test Parameter	AutoAnalysis.Line1.Point2.Data.Start	false
+Test Parameter	AutoAnalysis.Line1.Point2.Data.StartVar	
+Test Parameter	AutoAnalysis.Line1.Point2.Data.StartCondition	
+Test Parameter	AutoAnalysis.Line1.GradientExpr	0
+Test Parameter	AutoAnalysis.Line2.Enabled	false
+Test Parameter	AutoAnalysis.Line2.Type	1
+Test Parameter	AutoAnalysis.Line2.Fix	True
+Test Parameter	AutoAnalysis.Line2.YAxis	0
+Test Parameter	AutoAnalysis.Line2.Point1.Type	0
+Test Parameter	AutoAnalysis.Line2.Point1.XY.X	
+Test Parameter	AutoAnalysis.Line2.Point1.XY.Y	
+Test Parameter	AutoAnalysis.Line2.Point1.Data.Var	
+Test Parameter	AutoAnalysis.Line2.Point1.Data.Condition	
+Test Parameter	AutoAnalysis.Line2.Point1.Data.Start	false
+Test Parameter	AutoAnalysis.Line2.Point1.Data.StartVar	
+Test Parameter	AutoAnalysis.Line2.Point1.Data.StartCondition	
+Test Parameter	AutoAnalysis.Line2.Point2.Type	0
+Test Parameter	AutoAnalysis.Line2.Point2.XY.X	
+Test Parameter	AutoAnalysis.Line2.Point2.XY.Y	
+Test Parameter	AutoAnalysis.Line2.Point2.Data.Var	
+Test Parameter	AutoAnalysis.Line2.Point2.Data.Condition	
+Test Parameter	AutoAnalysis.Line2.Point2.Data.Start	false
+Test Parameter	AutoAnalysis.Line2.Point2.Data.StartVar	
+Test Parameter	AutoAnalysis.Line2.Point2.Data.StartCondition	
+Test Parameter	AutoAnalysis.Line2.GradientExpr	0
+Test Parameter	AutoAnalysis.Marker.Enabled	false
+Test Parameter	AutoAnalysis.Marker.Data.Var	
+Test Parameter	AutoAnalysis.Marker.Data.Condition	
+Test Parameter	AutoAnalysis.Marker.Data.Start	false
+Test Parameter	AutoAnalysis.Marker.Data.StartVar	
+Test Parameter	AutoAnalysis.Marker.Data.StartCondition	
+Vout	I1	R	I2	V1	V2
+V	A	ohm	A	V	V
+-2	-0.003773	530.082162735224	0.0037728	-2	0
+-2.02	-0.0038156	529.405598071077	0.0038156	-2.02	0
+-2.04	-0.0038512	529.70502700457	0.0038512	-2.04	0
+-2.06	-0.0038878	529.862647255517	0.0038878	-2.06	0
+-2.08	-0.0039338	528.750826173166	0.0039346	-2.08	0
+-2.1	-0.003973	528.567832871885	0.0039734	-2.1	0
+-2.12	-0.0040158	527.914736789681	0.0040166	-2.12	0
+-2.14	-0.0040634	526.652556971994	0.0040638	-2.14	0
+-2.16	-0.0041046	526.238853968718	0.0041044	-2.16	0
+-2.18	-0.0041442	526.036388205203	0.0041444	-2.18	0
+-2.2	-0.0041866	525.486074619023	0.0041868	-2.2	0
+-2.22	-0.0042272	525.170325510977	0.0042272	-2.22	0
+-2.24	-0.0042686	524.762217120367	0.0042686	-2.24	0
+-2.26	-0.004306	524.849047840223	0.0043066	-2.26	0
+-2.28	-0.0043424	525.055268975682	0.0043422	-2.28	0
+-2.3	-0.0043738	525.858521194385	0.0043738	-2.3	0
+-2.32	-0.0043992	527.368612474995	0.0043994	-2.32	0
+-2.34	-0.00099164	2359.72732039853	0.00099178	-2.34	0
+-2.36	-0.00102418	2304.28245035052	0.00102396	-2.36	0
+-2.38	-0.00105226	2261.79841484044	0.00105214	-2.38	0
+-2.4	-0.00108436	2213.28710022502	0.00108444	-2.4	0
+-2.42	-0.00111392	2172.50790002873	0.00111396	-2.42	0
+-2.44	-0.00114506	2130.89270431244	0.00114398	-2.44	0
+-2.46	-0.0011688	2104.7227926078	0.001169	-2.46	0
+-2.48	-0.001203	2061.51288445553	0.0012034	-2.48	0
+-2.5	-0.001236	2022.65372168285	0.0012384	-2.5	0
+-2.5	-0.0012362	2022.32648438764	0.0012364	-2.5	0
+-2.48	-0.0012088	2051.62144275314	0.0012088	-2.48	0
+-2.46	-0.0011814	2082.27526663281	0.0011814	-2.46	0
+-2.44	-0.0011512	2119.52744961779	0.0011514	-2.44	0
+-2.42	-0.0011262	2148.81903747114	0.0011262	-2.42	0
+-2.4	-0.001099	2183.80345768881	0.0010992	-2.4	0
+-2.38	-0.0010754	2213.12999814023	0.0010756	-2.38	0
+-2.36	-0.0010446	2259.2379858319	0.001046	-2.36	0
+-2.34	-0.0010178	2299.07643937905	0.0010182	-2.34	0
+-2.32	-0.00099344	2335.31969721372	0.0009936	-2.32	0
+-2.3	-0.00096966	2371.96543118206	0.00096998	-2.3	0
+-2.28	-0.00094286	2418.17449038033	0.00094284	-2.28	0
+-2.26	-0.00091618	2466.76417297911	0.00091628	-2.26	0
+-2.24	-0.00089054	2515.32777865116	0.00089046	-2.24	0
+-2.22	-0.00086918	2554.13148024575	0.00086912	-2.22	0
+-2.2	-0.00084166	2613.88209015517	0.00084188	-2.2	0
+-2.18	-0.00081866	2662.88813426819	0.00081886	-2.18	0
+-2.16	-0.00079528	2716.0245448144	0.0007953	-2.16	0
+-2.14	-0.00077232	2770.87217733582	0.00077254	-2.14	0
+-2.12	-0.00074938	2829.00531105714	0.00074968	-2.12	0
+-2.1	-0.0007273	2887.39172281039	0.00072786	-2.1	0
+-2.08	-0.00070516	2949.68517783198	0.00070534	-2.08	0
+-2.06	-0.00068608	3002.56529850746	0.0006863	-2.06	0
+-2.04	-0.0006642	3071.3640469738	0.00066426	-2.04	0
+-2.02	-0.00064272	3142.8927059995	0.000643	-2.02	0
+-2	-0.00062196	3215.64087722683	0.00062218	-2	0

@@ -1,0 +1,2 @@
+2 Probe IV Memristor Sweep [D1 1-3 reset(2) ; 8/15/2022 12:40:33 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.Aug.8_7SC1.1+3Al2O3_Alb Pdt_num 2_Mod Mask\D1 1-3\D1 1-3 reset Scan2.txt
+2 Probe IV Memristor Sweep [D1 1-3 initial(1) ; 8/15/2022 12:39:16 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.Aug.8_7SC1.1+3Al2O3_Alb Pdt_num 2_Mod Mask\D1 1-3\D1 1-3 initial Scan1.txt

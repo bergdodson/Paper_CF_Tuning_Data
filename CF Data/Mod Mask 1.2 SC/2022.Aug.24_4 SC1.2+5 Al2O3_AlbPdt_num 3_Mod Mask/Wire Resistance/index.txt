@@ -1,0 +1,5 @@
+2 Probe IV Memristor Sweep [D1 Pd4(1) ; 8/28/2022 8:08:27 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.Aug.24_4 SC1.2+5 Al2O3_AlbPdt_num 3_Mod Mask\Wire Resistance\Scan1 D1 Pd4.txt
+2 Probe IV Memristor Sweep [D3 Pd1(1) ; 8/28/2022 7:23:14 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.Aug.24_4 SC1.2+5 Al2O3_AlbPdt_num 3_Mod Mask\Wire Resistance\Scan1 D3 Pd1.txt
+2 Probe IV Memristor Sweep [D4 Pd1(3) ; 8/28/2022 6:18:55 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.Aug.24_4 SC1.2+5 Al2O3_AlbPdt_num 3_Mod Mask\Wire Resistance\D4 Pd1 Scan3.txt
+2 Probe IV Memristor Sweep [D4 Pd1(2) ; 8/28/2022 6:18:15 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.Aug.24_4 SC1.2+5 Al2O3_AlbPdt_num 3_Mod Mask\Wire Resistance\D4 Pd1 Scan2.txt
+2 Probe IV Memristor Sweep [D4 Pd1(1) ; 8/28/2022 6:17:31 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.Aug.24_4 SC1.2+5 Al2O3_AlbPdt_num 3_Mod Mask\Wire Resistance\D4 Pd1 Scan1.txt

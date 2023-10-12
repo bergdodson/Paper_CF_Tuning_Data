@@ -1,0 +1,15 @@
+2 Probe IV Memristor Sweep [D2 4-3 cycle(15) ; 8/16/2022 3:41:19 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.Aug.8_7SC1.1+3Al2O3_Alb Pdt_num 2_Mod Mask\D2 4-3\D2 4-3 cycle Scan15.txt
+2 Probe IV Memristor Sweep [D2 4-3 cycle(14) ; 8/16/2022 3:40:59 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.Aug.8_7SC1.1+3Al2O3_Alb Pdt_num 2_Mod Mask\D2 4-3\D2 4-3 cycle Scan14.txt
+2 Probe IV Memristor Sweep [D2 4-3 cycle(13) ; 8/16/2022 3:40:40 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.Aug.8_7SC1.1+3Al2O3_Alb Pdt_num 2_Mod Mask\D2 4-3\D2 4-3 cycle Scan13.txt
+2 Probe IV Memristor Sweep [D2 4-3 cycle(12) ; 8/16/2022 3:40:21 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.Aug.8_7SC1.1+3Al2O3_Alb Pdt_num 2_Mod Mask\D2 4-3\D2 4-3 cycle Scan12.txt
+2 Probe IV Memristor Sweep [D2 4-3 cycle(11) ; 8/16/2022 3:39:58 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.Aug.8_7SC1.1+3Al2O3_Alb Pdt_num 2_Mod Mask\D2 4-3\D2 4-3 cycle Scan11.txt
+2 Probe IV Memristor Sweep [D2 4-3 cycle(10) ; 8/16/2022 3:39:07 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.Aug.8_7SC1.1+3Al2O3_Alb Pdt_num 2_Mod Mask\D2 4-3\D2 4-3 cycle Scan10.txt
+2 Probe IV Memristor Sweep [D2 4-3 cycle(9) ; 8/16/2022 3:38:28 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.Aug.8_7SC1.1+3Al2O3_Alb Pdt_num 2_Mod Mask\D2 4-3\D2 4-3 cycle Scan9.txt
+2 Probe IV Memristor Sweep [D2 4-3 cycle(8) ; 8/16/2022 3:38:09 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.Aug.8_7SC1.1+3Al2O3_Alb Pdt_num 2_Mod Mask\D2 4-3\D2 4-3 cycle Scan8.txt
+2 Probe IV Memristor Sweep [D2 4-3 cycle(7) ; 8/16/2022 3:37:50 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.Aug.8_7SC1.1+3Al2O3_Alb Pdt_num 2_Mod Mask\D2 4-3\D2 4-3 cycle Scan7.txt
+2 Probe IV Memristor Sweep [D2 4-3 reset(6) ; 8/16/2022 3:37:27 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.Aug.8_7SC1.1+3Al2O3_Alb Pdt_num 2_Mod Mask\D2 4-3\D2 4-3 reset Scan6.txt
+2 Probe IV Memristor Sweep [D2 4-3 reset(5) ; 8/16/2022 3:36:57 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.Aug.8_7SC1.1+3Al2O3_Alb Pdt_num 2_Mod Mask\D2 4-3\D2 4-3 reset Scan5.txt
+2 Probe IV Memristor Sweep [D2 4-3 cycle(4) ; 8/16/2022 3:36:24 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.Aug.8_7SC1.1+3Al2O3_Alb Pdt_num 2_Mod Mask\D2 4-3\D2 4-3 cycle Scan4.txt
+2 Probe IV Memristor Sweep [D2 4-3 set(3) ; 8/16/2022 3:35:48 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.Aug.8_7SC1.1+3Al2O3_Alb Pdt_num 2_Mod Mask\D2 4-3\D2 4-3 set Scan3.txt
+2 Probe IV Memristor Sweep [D2 4-3 set(2) ; 8/16/2022 3:35:19 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.Aug.8_7SC1.1+3Al2O3_Alb Pdt_num 2_Mod Mask\D2 4-3\D2 4-3 set Scan2.txt
+2 Probe IV Memristor Sweep [D2 4-3 initial(1) ; 8/16/2022 3:34:34 PM]	->	C:\Users\B1500User\Desktop\Berg\2022.Aug.8_7SC1.1+3Al2O3_Alb Pdt_num 2_Mod Mask\D2 4-3\D2 4-3 initial Scan1.txt
